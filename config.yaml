@@ -38,6 +38,11 @@ repositories:
     teams:
       cbomkit-maintainers: admin
     visibility: public
+  - name: tsc
+    teams:
+      cbomkit-maintainers: maintain
+      lf-employees: maintain
+    visibility: public
   - name: governance
     teams:
       lf-employees: maintain
